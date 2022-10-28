@@ -15,12 +15,12 @@ export default function Inicio() {
         <div className={styles.title}>
           KINESIOLOGÍA
         </div>
-        <p>
+        {/* <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique enim harum cupiditate? Aut deleniti placeat nulla velit qui perspiciatis repellendus, exercitationem expedita fugiat earum ullam, eveniet necessitatibus unde quaerat tempora!
         </p>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique enim harum cupiditate? Aut deleniti placeat nulla velit qui perspiciatis repellendus, exercitationem expedita fugiat earum ullam, eveniet necessitatibus unde quaerat tempora!
-        </p>
+        </p> */}
     </div>
   )
 }
